@@ -1,9 +1,4 @@
----
-title: HOME PAGE - TEST MODE
-layout: default
----
-
-### Why Does Nashville Need a New Flag?
+### Why Does Nashville Need a New Flag? {#why}
 
 ### What Is Nashville's Current Flag?
 
@@ -21,6 +16,6 @@ Before us sits a unique opportunity to be a torchbearer for the idea of uniting 
 
 #### Business and Tourism
 
-### What Makes a Good Flag?
+### What Makes a Good Flag? {#good-and-bad}
 
 
