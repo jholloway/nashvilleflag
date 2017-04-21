@@ -7,6 +7,8 @@ layout: default
 
 ### What Is Nashville's Current Flag?
 
+![/img/current-nashville-flag.png]
+
 ### What's So Important About a Flag?
 
 #### Civic Pride
