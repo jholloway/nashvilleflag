@@ -1,3 +1,8 @@
+---
+title: A new flag for Nashville
+layout: default
+---
+
 # Test
 
 ## index.md
