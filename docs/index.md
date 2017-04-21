@@ -1,3 +1,8 @@
+---
+title: The Nashville Flag Project
+layout: default
+---
+
 ### Why Does Nashville Need a New Flag? {#why}
 
 ### What Is Nashville's Current Flag?
