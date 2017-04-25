@@ -1,4 +1,4 @@
-# How Can I Help?	{#help}
+# How Can I Help?
 
 ## Sign the Petition
 The best and easiest thing you can do is sign our petition on [x]. Proving that members of the community support the idea of giving Nashville a new flag will be the key to gaining interest and support among the Metro Council, who will ultimately decide the final legal fate of this project.
