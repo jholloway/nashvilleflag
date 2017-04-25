@@ -1,6 +1,4 @@
-# Official Process
-
-## What Will It Take to Make It Official?
+# What Will It Take to Make It Official?
 While we referenced Nashville’s “current” flag throughout this project, neither the Charter or Code of the Metropolitan Government of Nashville and Davidson County actually designate an official design for the city’s flag. Our end goal is to add official language to the city’s guiding documents describing and codifying a new official flag.
 
 This is not as easy as it sounds. For an ordinance (or “bill”) to be enacted or a resolution to be adopted, it must be presented and read in front of at least one Council meeting, and before that it must be heard and discussed at a Committee meeting.
