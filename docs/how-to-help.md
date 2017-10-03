@@ -1,7 +1,7 @@
 # How Can I Help?
 
 ## Sign the Petition
-The best and easiest thing you can do is [sign our petition on change.org](#). Proving that members of the community support the idea of giving Nashville a new flag will be the key to gaining interest and support among the Metro Council, who will ultimately decide the final legal fate of this project.
+The best and easiest thing you can do is [sign our petition](#). Proving that members of the community support the idea of giving Nashville a new flag will be the key to gaining interest and support among the Metro Council, who will ultimately decide the final legal fate of this project.
 
 ## Submit Your Design
 The designs we’ve presented here are just samples, and are by no means the final designs we will be choosing from or presenting to Council members. If there’s a good idea out there for Nashville’s new flag, we want to see it.
@@ -14,7 +14,7 @@ We welcome flag designs from anyone who’d like to participate in the project, 
 If you run a business or organization who supports this effort, we would love your official endorsement. Support from commercial or charitable enterprises will carry real weight when working with the Council, and your name attached to this project would make a huge difference. Cash or in-kind donations are by no means required, but are greatly appreciated if they meet the project’s specific needs.
 
 ## Share Your Contacts
-Nashville is a famously friendly town where everybody knows everybody. As such, you probably have some really important friends or acquaintances at local businesses, organizations, or within our city’s government. If you do, we’d love for you to make an introduction. Feel free to CC us ([nashvilleflag@gmail.com](#)) on any communication to your associates regarding this project.
+Nashville is a famously friendly town where everybody knows everybody. As such, you probably have some really important friends or acquaintances at local businesses, organizations, or within our city’s government. If you do, we’d love for you to make an introduction. Feel free to CC us ( [nashvilleflag@gmail.com](#) ) on any communication to your associates regarding this project.
 
 ## Volunteer to Spread the Word
 We are excited about the prospect of a groundswell of support for this project in the community, but we can’t reach everyone on our own. We need you to share with your friends, family, and colleagues. If you have the means and ability, pass out [flyers](#) or hang them publicly in your office. Approach local organizations to garner their support and feedback. Talk to people on the street about the project. If you can’t do anything else, follow us on [Facebook](#), [Twitter](#), and [Instagram](#) and share our story via social media with your network.
